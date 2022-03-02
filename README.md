@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Théo
-- 👀 I’m interested in coding !
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning web development
 
 <!---
